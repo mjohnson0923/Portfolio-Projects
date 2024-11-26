@@ -36,6 +36,6 @@ A simple and user-friendly stopwatch timer application built with HTML, CSS, and
 
 ## Future Enhancements
 
-**Add dark mode for improved accessibility.
-**Include a save feature to store lap times in local storage.
-**Introduce sound effects for user actions.
+- **Add dark mode for improved accessibility.
+- **Include a save feature to store lap times in local storage.
+- **Introduce sound effects for user actions.
