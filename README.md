@@ -20,11 +20,11 @@ This project is an **interactive dashboard** built using **Web Components**. It 
    - Events are stored in `localStorage` for persistence.
 
 3. **To-Do List**:
-- Add Tasks: Enter a task and click **Add** to save it.
-- Mark as Completed:
-  - Check the checkbox next to a task to mark it as completed (strikethrough).
-  - Uncheck the checkbox to remove the strikethrough.
-- Persistent Storage: Tasks and their completion status are saved in `localStorage` and persist across page reloads.
+   - Add Tasks: Enter a task and click **Add** to save it.
+   - Mark as Completed:
+     - Check the checkbox next to a task to mark it as completed (strikethrough).
+     - Uncheck the checkbox to remove the strikethrough.
+   - Persistent Storage: Tasks and their completion status are saved in `localStorage` and persist across page reloads.
 
 This project demonstrates modern frontend development practices, including modular architecture, API integration, and dynamic user interfaces.
 
